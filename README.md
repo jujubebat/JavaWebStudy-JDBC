@@ -1,4 +1,4 @@
 # Java-Web-Study-JDBC
-## Tomcat 8.5
-## Maven
-## JDBC with MySQL 5.1.21
+## Environment : JDK8, Tomcat 8.5, MySQL 5.1.21
+## Study about Maven, JDBC with MySQL
+
